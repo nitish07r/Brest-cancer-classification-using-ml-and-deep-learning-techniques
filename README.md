@@ -2,6 +2,7 @@
 The primary objective of this project is to develop  a robust and accurate system for the early  detection of breast cancer. By leveraging  machine learning and deep learning algorithms,  we aim to classify breast tumors as malignant or  benign based on various features extracted from  medical images.
 
 Machine Learning Classifiers Used:
+
 Logistic Regression
 K Neighbors Classifier (KNN)
 Support Vector Classifier (SVC)
@@ -15,6 +16,7 @@ Stochastic Gradient Boosting (SGB)
 Extreme Gradient Boosting (XGBoost)
 
 Results:
+
 The classification models were trained and 
 evaluated on a dataset of breast cancer samples. 
 The performance metrics, including accuracy, 
@@ -25,6 +27,7 @@ Classifier achieved the highest accuracy of
 our breast cancer classification task.
 
 Deep Learning Approach:
+
 In addition to traditional machine learning 
 methods, we explored the effectiveness of deep 
 learning using a neural network. The neural 
@@ -32,6 +35,7 @@ network achieved an accuracy of 95.6% in
 classifying breast cancer samples.
 
 Conclusion:
+
 The promising results obtained from both 
 machine learning and deep learning approaches 
 demonstrate the potential of these techniques in 
